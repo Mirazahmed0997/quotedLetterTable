@@ -39,7 +39,7 @@
     table{
         width:100%;
         border-collapse:collapse;
-        font-size:14px;
+        font-size:12px;
     }
 
     table th, table td{
@@ -82,7 +82,7 @@
     }
 
     .signature .line{
-        margin-top:40px;
+        margin-top:10px;
         border-top:1px solid #000;
         padding-top:5px;
     }
